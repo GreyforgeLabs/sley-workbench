@@ -11,7 +11,7 @@
     "sley.trace.seal.v0",
     "sley.zjx.envelope.v0"
   ],
-  "future_url": "https://sley.dev/tools/sley-workbench",
+  "future_url": "https://sley.greyforge.tech/tools/sley-workbench",
   "github": "https://github.com/GreyforgeLabs/sley-workbench",
   "name": "sley-workbench",
   "primary_user": "compiler contributors and agent tool builders",

@@ -80,7 +80,7 @@
 
     Draft description: Inspect Sley readiness, graph slices, query tables, lint findings, checked repair plans, traces, seals, and ZJX envelopes from one local workbench.
 
-    Future canonical URL: `https://sley.dev/tools/sley-workbench`
+    Future canonical URL: `https://sley.greyforge.tech/tools/sley-workbench`
 
     GitHub URL while private: `https://github.com/GreyforgeLabs/sley-workbench`
 
