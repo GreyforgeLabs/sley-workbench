@@ -14,7 +14,8 @@
   "scripts": {
     "fmt": "node test/check-format.mjs",
     "smoke": "node test/smoke.mjs",
-    "test": "node test/smoke.mjs"
+    "test": "node test/smoke.mjs",
+    "native": "make native"
   },
   "type": "module",
   "version": "0.0.0-private"

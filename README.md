@@ -2,8 +2,10 @@
 
     Local graph, lint, plan, trace, seal, and ZJX inspection workbench for Sley projects.
 
-    Status: private Sley ecosystem scaffold. This repository is intentionally
-    built as a detailed starting point before public release.
+Status: private Sley ecosystem scaffold. This repository is intentionally
+built as a detailed starting point before public release.
+
+Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; current Node + browser host is temporary until a Sley emit target is ready.
 
     ## Why This Exists
 

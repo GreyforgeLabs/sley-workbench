@@ -17,7 +17,7 @@
   "primary_user": "compiler contributors and agent tool builders",
   "priority": "P0 scaffold",
   "schema": "sley.tool.manifest.v0",
-  "status": "private_scaffold",
+  "status": "private_sley_native_source",
   "title": "Sley Workbench",
   "utility": "graph and graft workbench"
 }
