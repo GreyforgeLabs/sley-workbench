@@ -1,0 +1,21 @@
+{
+  "bin": {
+    "sley-workbench": "./src/server.mjs"
+  },
+  "description": "Local graph, lint, plan, trace, seal, and ZJX inspection workbench for Sley projects.",
+  "keywords": [
+    "sley",
+    "developer-tools",
+    "graph and graft workbench"
+  ],
+  "license": "MIT",
+  "name": "sley-workbench",
+  "private": true,
+  "scripts": {
+    "fmt": "node test/check-format.mjs",
+    "smoke": "node test/smoke.mjs",
+    "test": "node test/smoke.mjs"
+  },
+  "type": "module",
+  "version": "0.0.0-private"
+}
