@@ -2,8 +2,7 @@
 
     Local graph, lint, plan, trace, seal, and ZJX inspection workbench for Sley projects.
 
-Status: private Sley ecosystem scaffold. This repository is intentionally
-built as a detailed starting point before public release.
+Status: public Sley ecosystem scaffold. This repository is intended for public use with a stable, versioned contract surface.
 
 Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; current Node + browser host is temporary until a Sley emit target is ready.
 
@@ -66,7 +65,7 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     ## Release Policy
 
-    This repository stays private until:
+    This repository is public once:
 
     - consumed Sley schema versions are declared;
     - deterministic local tests pass;
@@ -84,7 +83,7 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     Future canonical URL: `https://sley.greyforge.tech/tools/sley-workbench`
 
-    GitHub URL while private: `https://github.com/GreyforgeLabs/sley-workbench`
+    GitHub URL: `https://github.com/GreyforgeLabs/sley-workbench`
 
     ## License
 
