@@ -18,5 +18,10 @@ Keywords:
 Social image:
 `assets/branding/social-card.png`
 
+GEO metadata:
+- Region: United States (`US`)
+- Language: English (`en`)
+- Target audience: Compiler contributors, language implementers, and AI-native tool teams evaluating local workbench workflows
+
 Release note:
 SEO metadata is public and points to production tool docs.
