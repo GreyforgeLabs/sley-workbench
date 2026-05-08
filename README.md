@@ -77,11 +77,11 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     ## SEO Surface
 
-    Draft SEO title: `Sley Workbench - AI-native inspection surface`
+    SEO title: `Sley Workbench - AI-native inspection surface`
 
-    Draft description: Inspect AI-first readiness, graph slices, query tables, lint findings, checked repair plans, traces, seals, and ZJX envelopes from one local workbench.
+    SEO description: Inspect AI-first readiness, graph slices, query tables, lint findings, checked repair plans, traces, seals, and ZJX envelopes from a local workbench.
 
-    Future canonical URL: `https://sleylang.org/tools/sley-workbench`
+    Canonical URL: `https://sleylang.org/tools/sley-workbench`
 
     GitHub URL: `https://github.com/GreyforgeLabs/sley-workbench`
 
